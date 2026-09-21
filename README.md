@@ -4,7 +4,7 @@
 
 双击电源键后，让 OPPO 钱包快捷页面自动转到 **Google 钱包**。适用于需要保留国行 ColorOS 原有钱包快捷入口的场景，**无需 root，也无需 ADB 授权**。
 
-本项目已收到**国行 OPPO Find X9、未 root 的用户实机成功反馈**。具体 ColorOS 版本未记录，其他机型和系统版本需要测试。
+本项目已收到**国行 OPPO Find X9、未 root 的用户实机成功反馈**。具体其他机型需要测试。
 
 **[下载 APK](https://github.com/yqia03/coloros-wallet-bridge/releases/latest) · [详细使用说明](docs/使用说明.md) · [自行构建](docs/构建说明.md) · [反馈问题](https://github.com/yqia03/coloros-wallet-bridge/issues)**
 
