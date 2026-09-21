@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description">由你主动启用的快捷操作：只处理 OPPO 钱包窗口的应用包名与页面类名，匹配指定页面后返回并打开 Google 钱包。校准时最多保存 20 个页面名称。不读取窗口文字、卡号、密码，不联网。可在应用中暂停或在这里关闭服务。</string>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#216350</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowBackground">#F6F8F5</item>
+    </style>
+</resources>

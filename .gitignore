@@ -1,0 +1,30 @@
+# Generated files and local SDKs
+build/
+work/
+toolchain/
+.gradle/
+local.properties
+__pycache__/
+*.pyc
+*.apk
+*.apk.idsig
+*.dex
+*.class
+
+# Signing material stays on the maintainer's machine
+signing/
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.key
+*.pem
+password.txt
+password*.txt
+.env
+.env.*
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
